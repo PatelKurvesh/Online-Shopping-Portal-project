@@ -62,7 +62,7 @@
                     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
                     $headers .= "From: ".$email." \r\n";
                                         
-                    mail("patelkurvesh1999@gmail.com","Response from online shopping",$message);
+                    mail("patelkurvesh1999@gmail.com","Response from online_shopping",$message);
                 }
                 
                 ?>
